@@ -21,9 +21,9 @@ Save as README.md in repo: Ishikajain0172-web
 
 ## 🚀 About Me  
 - 🎓 First-year B.Tech ECE student at **ABES Engineering College**  
-- 💡 Enthusiastic about **learning web design & frontend development**  
+- 💡 Enthusiastic about **learning web design & stack development**  
 - 🌱 Currently exploring: **HTML • CSS • JavaScript • Responsive UI**  
-- 🎯 Goal: To become a **skilled frontend developer** who builds beautiful, user-friendly websites  
+- 🎯 Goal: To become a **skilled full stack developer** who builds beautiful, user-friendly websites  
 - ✨ *thought that keeps me going:* **“One line of code can change everything—keep typing.”**
 
 ## 🧰 Languages & Frameworks
