@@ -48,6 +48,8 @@ Save as README.md in repo: Ishikajain0172-web
 </br>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172-web&theme=react-dark" />
+</div>
+
   
 </div>
 
