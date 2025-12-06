@@ -9,20 +9,17 @@ Save as README.md in repo: Ishikajain0172-web
   <img src="./assets/banner.gif" alt="Ishika — Web Developer" style="width:100%; max-height:240px; object-fit:cover; border-radius:12px;" />
 </p>
 
-<h1 align="center" style="margin-top:18px">Hi There👋, I'm <strong>Ishika Jain</strong></h1>
-<p align="center"><strong>Web Developer</strong> · 
+<<h1 align="center">Hi 👋, I'm Ishika Jain</h1>
+<h3 align="center">B.Tech ECE Student | Passionate Web Designer | Frontend Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishikajain0172-web&color=blue&color=blue" alt="profile views" />
-  &nbsp;&nbsp;
-  
-</p>
+---
 
-### 🚀 About Me  
-- 💻 Passionate **Web Developer**  
-- 📱 Currently learning **UI/UX Designer** (Figma, Posters, Ads, Social Media)  
-- 🏆 An enthusiast learner & love to participate in hackathons
-- 📬 Reach me at **ishika.25b03110172@abes.ac.in** 
+## 🚀 About Me  
+- 🎓 First-year B.Tech ECE student at **ABES Engineering College**  
+- 💡 Enthusiastic about **learning web design & frontend development**  
+- 🌱 Currently exploring: **HTML • CSS • JavaScript • Responsive UI**  
+- 🎯 Goal: To become a **skilled frontend developer** who builds beautiful, user-friendly websites  
+- ✨ *Coder Thought of the Day:* **“Every line of code is a step toward improving myself.”**
 
 ## 🧰 Languages & Frameworks
 **Languages**
@@ -39,24 +36,30 @@ Save as README.md in repo: Ishikajain0172-web
 </p>
 
 
-## 📊 GitHub Stats & Trophies
-<div align="center">
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
 
-  <!-- GitHub Profile Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172-web&theme=tokyonight&row=1&column=6" 
-    alt="GitHub Trophies"
-  />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikajain0172&theme=tokyonight" alt="streak" />
+</p>
 
-  <br/><br/>
+---
 
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172-web&theme=react-dark" 
-    alt="GitHub Activity Graph"
-  />
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172&theme=tokyonight&row=1&column=6" />
+</p>
 
-</div>
+---
+
+## 📊 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
