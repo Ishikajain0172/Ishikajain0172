@@ -42,9 +42,7 @@ Save as README.md in repo: Ishikajain0172-web
 
 
 ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikajain0172&theme=tokyonight" alt="streak" />
@@ -86,26 +84,3 @@ Save as README.md in repo: Ishikajain0172-web
 
 <!-- End of README -->
 ---
-
-### ✨ ## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikajain0172&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📊 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
-</p>
