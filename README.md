@@ -12,6 +12,11 @@ Save as README.md in repo: Ishikajain0172-web
 <<h1 align="center">Hi 👋, I'm Ishika Jain</h1>
 <h3 align="center">B.Tech ECE Student | Passionate Web Designer | Frontend Learner</h3>
 
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -19,7 +24,7 @@ Save as README.md in repo: Ishikajain0172-web
 - 💡 Enthusiastic about **learning web design & frontend development**  
 - 🌱 Currently exploring: **HTML • CSS • JavaScript • Responsive UI**  
 - 🎯 Goal: To become a **skilled frontend developer** who builds beautiful, user-friendly websites  
-- ✨ *Coder Thought of the Day:* **“Every line of code is a step toward improving myself.”**
+- ✨ *thought that keeps me going:* **“One line of code can change everything—keep typing.”**
 
 ## 🧰 Languages & Frameworks
 **Languages**
@@ -82,5 +87,25 @@ Save as README.md in repo: Ishikajain0172-web
 <!-- End of README -->
 ---
 
-### ✨ Thoughts That Keep Me Going  
-💡 *One line of code can change everything—keep typing.*
+### ✨ ## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishikajain0172&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
+</p>
