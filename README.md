@@ -40,19 +40,23 @@ Save as README.md in repo: Ishikajain0172-web
 
 
 ## 📊 GitHub Stats & Trophies
-<div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172-web&theme=tokyonight&row=1&column=6" alt="Trophies" />
-</div>
-</br>
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172-web&theme=react-dark" />
-</div>
 
-  
-</div>
+  <!-- GitHub Profile Trophies -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172-web&theme=tokyonight&row=1&column=6" 
+    alt="GitHub Trophies"
+  />
 
+  <br/><br/>
+
+  <!-- Activity Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172-web&theme=react-dark" 
+    alt="GitHub Activity Graph"
+  />
+
+</div>
 
 ## 🌐 Connect With Me
 
