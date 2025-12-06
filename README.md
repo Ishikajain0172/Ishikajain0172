@@ -73,5 +73,5 @@ Save as README.md in repo: Ishikajain0172-web
 <!-- End of README -->
 ---
 
-### ✨ Fun Fact  
-💡 *One line of
+### ✨ Thoughts That Keep Me Going  
+💡 *One line of code can change everything—keep typing.*
