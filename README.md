@@ -28,6 +28,8 @@ Save as README.md in repo: Ishikajain0172-web
 🔹 **Responsive Landing Page**  
    " Built using HTML & CSS with mobile-first approach "
 
+  ---
+
 ## 🧰 Languages & Frameworks
 **Languages**
 <p>
@@ -36,23 +38,30 @@ Save as README.md in repo: Ishikajain0172-web
   <img title="C++" alt="C++" src="https://skillicons.dev/icons?i=cpp" width="36" />
 </p>
 
+
+---
+
+
 **Frontend & Mobile**
 <p>
   <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html" width="36" />
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" width="36" />
 </p>
 
+---
 
 ## 🏆 My Learning Milestones
 🏅 Completed HTML & CSS Fundamentals  
 🏅 Built Responsive Layouts    
 🏅 Actively Maintaining GitHub Profile
 
+---
 
 ## 📌 Featured Projects
 🔹 **Responsive Landing Page**  
 Built using HTML & CSS with mobile-first approach  
 
+---
 
 ## 📈 Skill Progress
 
@@ -60,7 +69,7 @@ HTML        🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
 CSS         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%   
 Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
 
-
+---
 
 
 ## 🛠️ Skills & Tools
@@ -71,6 +80,7 @@ Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
+---
 
 ## 🔥 GitHub Streak
 
@@ -78,7 +88,7 @@ Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
   <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight&hide_border=true" />
 </p>
 
-
+---
 
 ## 📊 Contribution Graph  
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
