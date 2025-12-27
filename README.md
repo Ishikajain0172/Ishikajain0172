@@ -28,7 +28,12 @@ Save as README.md in repo: Ishikajain0172-web
 - 💡 Enthusiastic about **learning web design & stack development**  
 - 🌱 Currently exploring: **HTML • CSS • JavaScript • Responsive UI**  
 - 🎯 Goal: To become a **skilled full stack developer** who builds beautiful, user-friendly websites  
-- ✨ *## 📌 Featured Projects
+- 💡 Coding Philosophy :
+> “Consistency matters more than speed.
+
+----
+
+ ## 📌 Featured Projects
 🔹 **Responsive Landing Page**  
    " Built using HTML & CSS with mobile-first approach "
 
