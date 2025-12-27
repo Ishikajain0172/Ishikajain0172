@@ -29,14 +29,12 @@ Save as README.md in repo: Ishikajain0172-web
 - 💡 Coding Philosophy :
 > “Consistency matters more than speed.
 
-----
 
  ## 📌 Featured Projects
 🔹 **Responsive Landing Page**  
    " Built using HTML & CSS with mobile-first approach "
 
-  ---
-
+  
 ## 🧰 Languages & Frameworks
 **Languages**
 <p>
@@ -46,8 +44,6 @@ Save as README.md in repo: Ishikajain0172-web
 </p>
 
 
----
-
 
 **Frontend & Mobile**
 <p>
@@ -55,20 +51,18 @@ Save as README.md in repo: Ishikajain0172-web
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" width="36" />
 </p>
 
----
 
 ## 🏆 My Learning Milestones
 🏅 Completed HTML & CSS Fundamentals  
 🏅 Built Responsive Layouts    
 🏅 Actively Maintaining GitHub Profile
 
----
 
 ## 📌 Featured Projects
 🔹 **Responsive Landing Page**  
 Built using HTML & CSS with mobile-first approach  
 
----
+
 
 ## 📈 Skill Progress
 
@@ -76,7 +70,7 @@ HTML        🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
 CSS         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%   
 Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
 
----
+
 
 
 ## 🛠️ Skills & Tools
@@ -87,7 +81,7 @@ Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 ## 📊 Contribution Graph 
 🟢 Actively contributing and maintaining consistency on GitHub  
@@ -107,7 +101,6 @@ Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
  <a href="https://github.com/Ishikajain0172"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
----
 
 ## ✉️ Contact
 
