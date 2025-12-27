@@ -17,7 +17,6 @@ Save as README.md in repo: Ishikajain0172-web
   <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
   <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
   <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
-  <img src="https://img.shields.io/github/commit-activity/y/Ishikajain0172?style=flat"/>
 </p>
 
 ---
@@ -90,16 +89,11 @@ Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 Contribution Graph 
+🟢 Actively contributing and maintaining consistency on GitHub  
+📅 View my complete contribution history here:  
+👉 https://github.com/Ishikajain0172
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ishikajain0172" />
-
-</p>
-
----
-
-## 📊 Contribution Graph  
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 
