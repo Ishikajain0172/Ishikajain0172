@@ -41,7 +41,7 @@ Save as README.md in repo: Ishikajain0172-web
 </p>
 
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats    
 
 
 <p align="center">
