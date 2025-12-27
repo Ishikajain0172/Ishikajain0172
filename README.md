@@ -40,11 +40,11 @@ Save as README.md in repo: Ishikajain0172-web
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" width="36" />
 </p>
 
-
-## 📈 GitHub Stats  
+**Github Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 
 ---
 
