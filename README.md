@@ -40,17 +40,19 @@ Save as README.md in repo: Ishikajain0172-web
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css" width="36" />
 </p>
 
-**Github Stats**
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-
----
-
-## 🏆 Achievements  
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172&theme=tokyonight&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishikajain0172&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
