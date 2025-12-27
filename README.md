@@ -43,13 +43,6 @@ Save as README.md in repo: Ishikajain0172-web
 </p>
 
 
-## 🌱 Currently Learning
-- HTML5 (Semantic & Accessible Markup)
-- CSS3 (Flexbox, Grid, Animations)
-- JavaScript (Basics & DOM)
-- Responsive Web Design
-
-
 ## 🏆 My Learning Milestones
 🏅 Completed HTML & CSS Fundamentals  
 🏅 Built Responsive Layouts    
@@ -62,20 +55,10 @@ Built using HTML & CSS with mobile-first approach
 
 
 ## 📈 Skill Progress
-HTML
-<progress value="85" max="100"></progress>
 
-CSS
-<progress value="80" max="100"></progress>
-
-JavaScript
-<progress value="65" max="100"></progress>
-
-Bootstrap
-<progress value="70" max="100"></progress>
-
-Git/GitHub
-<progress value="70" max="100"></progress>
+HTML        🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  
+CSS         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%   
+Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
 
 
 
