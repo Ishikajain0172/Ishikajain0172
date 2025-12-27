@@ -62,10 +62,21 @@ Built using HTML & CSS with mobile-first approach
 
 
 ## 📈 Skill Progress
-HTML       ██████████░░ 85%  
-CSS        █████████░░░ 80%  
-JavaScript ███████░░░░░ 65%  
-Git/GitHub ████████░░░░ 70%  
+HTML
+<progress value="85" max="100"></progress>
+
+CSS
+<progress value="80" max="100"></progress>
+
+JavaScript
+<progress value="65" max="100"></progress>
+
+Bootstrap
+<progress value="70" max="100"></progress>
+
+Git/GitHub
+<progress value="70" max="100"></progress>
+
 
 
 
