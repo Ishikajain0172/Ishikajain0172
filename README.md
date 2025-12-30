@@ -48,12 +48,6 @@ Save as README.md in repo: Ishikajain0172-web
 </p>
 
 
-## 🏆 My Learning Milestones
-🏅 Completed HTML & CSS Fundamentals  
-🏅 Built Responsive Layouts    
-🏅 Actively Maintaining GitHub Profile
-
-
 
 ## 🛠️ Skills & Tools
 <p>
@@ -62,6 +56,16 @@ Save as README.md in repo: Ishikajain0172-web
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
+
+
+
+## 🏆 My Learning Milestones
+🏅 Completed HTML & CSS Fundamentals  
+🏅 Built Responsive Layouts    
+🏅 Actively Maintaining GitHub Profile
+
+
+
 
 
 ## 📌 Featured Projects
