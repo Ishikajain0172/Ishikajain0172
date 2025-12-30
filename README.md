@@ -68,7 +68,7 @@ Save as README.md in repo: Ishikajain0172-web
 
 
 
-## 📌 Featured Projects
+<!--## 📌 Featured Projects
 🔹 **Responsive Landing Page**  
 Built using HTML & CSS with mobile-first approach  
 
@@ -79,7 +79,7 @@ Built using HTML & CSS with mobile-first approach
 HTML        🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%  
 CSS         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%   
 Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
-
+-->
 
 
 
