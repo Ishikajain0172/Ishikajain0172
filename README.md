@@ -88,7 +88,9 @@ Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%
 📅 View my complete contribution history here:  
 👉 https://github.com/Ishikajain0172
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
+</p>
 
 
 ---
