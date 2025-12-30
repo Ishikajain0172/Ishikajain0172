@@ -30,11 +30,7 @@ Save as README.md in repo: Ishikajain0172-web
 > “Consistency matters more than speed.
 
 
- ## 📌 Featured Projects
-🔹 **Responsive Landing Page**  
-   " Built using HTML & CSS with mobile-first approach "
 
-  
 ## 🧰 Languages & Frameworks
 **Languages**
 <p>
@@ -58,6 +54,16 @@ Save as README.md in repo: Ishikajain0172-web
 🏅 Actively Maintaining GitHub Profile
 
 
+
+## 🛠️ Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+
 ## 📌 Featured Projects
 🔹 **Responsive Landing Page**  
 Built using HTML & CSS with mobile-first approach  
@@ -70,16 +76,6 @@ HTML        🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 90%
 CSS         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%   
 Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
 
-
-
-
-## 🛠️ Skills & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
 
 
 
