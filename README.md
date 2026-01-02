@@ -50,8 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
 </p>
 
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
