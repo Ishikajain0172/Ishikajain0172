@@ -28,7 +28,7 @@
   <img title="github" alt="github" height="35" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png">
 </p>
 
-## Github Streak
+## Github Streak & Top Languages Used
 <p>
   <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight" />
 <img 
@@ -59,9 +59,11 @@
    <a href="https://github.com/Ishikajain0172"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
   
   <a href="mailto:ishikaajain0109@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ishikaajain0109@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishikaajain0109@gmail.com" />
   </a>
 
 </p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge"/>
+</p>
