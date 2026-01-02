@@ -81,6 +81,16 @@ CSS         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%
 Git/GitHub  🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  
 -->
 
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishikajain0172&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight" />
+</p>
+
 
 
 ## 📊 Contribution Graph 
