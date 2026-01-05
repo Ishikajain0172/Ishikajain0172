@@ -6,9 +6,11 @@
   <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
   <img src="https://wakatime.com/badge/user/Ishikajain0172.svg/>
 
-  />
+</p>
 
   ## My Learning Milestones
+ <p>
+   
   - Completed HTML & CSS Fundamentals
   - Built Responsive Layouts    
   - Actively Maintaining GitHub Profile
