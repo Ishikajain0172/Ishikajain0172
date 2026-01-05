@@ -8,7 +8,7 @@
 
 </p>
 
-  ## My Learning Milestones
+## My Learning Milestones
  <p>
    
   - Completed HTML & CSS Fundamentals
