@@ -37,13 +37,11 @@
 />
 </p>
 
-<!--
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh0702-web&theme=tokyonight" alt="stats" />
-</p>
+## ⏱️ Weekly Coding Stats
 
--->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 📊 Contribution Graph 
 <p align="center">
