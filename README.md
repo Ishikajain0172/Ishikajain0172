@@ -4,10 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
   <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
   <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
-  <img src=" https://wakatime.com/badge/user/11796fac-143b-459b-acb5-308f825d6fcf.svg"/>
-  <img 
-  src="https://wakatime.com/badge/user/11796fac-143b-459b-acb5-308f825d6fcf.svg"
-  alt="WakaTime"
+  <img src="https://wakatime.com/badge/user/Ishikajain0172.svg/>
+
   />
 
   ## My Learning Milestones
