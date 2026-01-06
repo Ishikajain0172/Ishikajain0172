@@ -46,6 +46,17 @@
 ## ⏱️ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 34 mins
+
+HTML           1 hr 17 mins    ████████████▒░░░░░░░░░░░░   49.13 %
+Markdown       56 mins         █████████░░░░░░░░░░░░░░░░   35.88 %
+CSS            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Git            9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Other          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+```
+
 <!--END_SECTION:waka-->
 
 
