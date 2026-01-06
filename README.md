@@ -1,17 +1,26 @@
 <h1 align="center">Hi there👋, I'm Ishika Jain</h1>
 <h3 align="center">B.Tech ECE Student | Passionate Web Designer | Frontend Learner</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
-  <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
-  <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
-  <img src="https://wakatime.com/badge/user/226833b3-cd61-4855-8986-fc10383441a0.svg"/>
-
-</p>
+  <a href="https://www.linkedin.com/in/ishika-jain-10aaa935b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+   <a href="https://github.com/Ishikajain0172"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
+  
+  <a href="mailto:ishikaajain0109@gmail.com">
+  <img src="https://img.shields.io/badge/-ishikaajain0109@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishikaajain0109@gmail.com" />
+  </a>
 
 ## My Learning Milestones
 - Completed HTML & CSS Fundamentals
 - Built Responsive Layouts    
 - Actively Maintaining GitHub Profile
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
+  <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
+  <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
+  <a href="https://wakatime.com/@226833b3-cd61-4855-8986-fc10383441a0"><img src="https://wakatime.com/badge/user/226833b3-cd61-4855-8986-fc10383441a0.svg" alt="Total time coded since Jan 3 2026" /></a>
+
+</p>
+
 
  **Languages & Tools**
 <p>
@@ -28,9 +37,10 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight" />
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikajain0172&layout=compact&theme=tokyonight&cache_seconds=3600"
-  alt="Top Languages Used"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikajain0172&layout=compact&theme=tokyonight" 
+  alt="Top Languages" 
 />
+
 </p>
 
 ## ⏱️ Weekly Coding Stats
@@ -42,18 +52,6 @@
 ## 📊 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ishika-jain-10aaa935b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-   <a href="https://github.com/Ishikajain0172"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
-  
-  <a href="mailto:ishikaajain0109@gmail.com">
-  <img src="https://img.shields.io/badge/-ishikaajain0109@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishikaajain0109@gmail.com" />
-  </a>
-
 </p>
 
 <p align="center">
