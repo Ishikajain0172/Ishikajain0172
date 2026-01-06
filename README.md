@@ -1,21 +1,17 @@
-<<h1 align="center">Hi there👋, I'm Ishika Jain</h1>
+<h1 align="center">Hi there👋, I'm Ishika Jain</h1>
 <h3 align="center">B.Tech ECE Student | Passionate Web Designer | Frontend Learner</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
   <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
   <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
-  <img src="https://wakatime.com/badge/user/Ishikajain0172.svg/>
+  <img src="https://wakatime.com/badge/user/Ishikajain0172.svg"/>
 
 </p>
 
 ## My Learning Milestones
- <p>
-   
-  - Completed HTML & CSS Fundamentals
-  - Built Responsive Layouts    
-  - Actively Maintaining GitHub Profile
-
-</p>
+- Completed HTML & CSS Fundamentals
+- Built Responsive Layouts    
+- Actively Maintaining GitHub Profile
 
  **Languages & Tools**
 <p>
