@@ -36,10 +36,11 @@
 ## Github Streak & Top Languages Used
 <p>
   <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight" />
+<!--
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikajain0172&layout=compact&theme=tokyonight" 
   alt="Top Languages" 
-/>
+/> -->
 
 </p>
 
