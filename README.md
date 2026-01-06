@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=1B84C6&style=flat" alt="profile views" />
   <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
   <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Ishikajain0172?style=flat"/>
-  <img src="https://wakatime.com/badge/user/Ishikajain0172.svg"/>
+  <img src="https://wakatime.com/badge/user/226833b3-cd61-4855-8986-fc10383441a0.svg"/>
 
 </p>
 
