@@ -49,9 +49,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 mins
+Total Time: 3 mins
 
-HTML   5 mins          █████████████████████████   100.00 %
+HTML   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
