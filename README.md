@@ -51,7 +51,7 @@
 ```txt
 Total Time: 1 min
 
-HTML   1 min           █████████████████████████   100.00 %
+HTML   1 min                 █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
