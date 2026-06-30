@@ -49,11 +49,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 44 mins
+Total Time: 19 mins
 
-JavaScript   33 mins               ██████████████████▓░░░░░░   75.33 %
-CSS          10 mins               ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript   13 mins               █████████████████▒░░░░░░░   68.78 %
+CSS          6 mins                ███████▓░░░░░░░░░░░░░░░░░   31.22 %
 ```
 
 <!--END_SECTION:waka-->
