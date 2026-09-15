@@ -35,7 +35,7 @@
 
 ## Github Streak & Top Languages Used
 <p>
-  <img src="https://streak-stats.demolab.com?user=Ishikajain0172&&theme=tokyonight />
+  <img src="https://streak-stats.demolab.com?user=Ishikajain0172&theme=tokyonight&hide_border=true" />
 <!--
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishikajain0172&layout=compact&theme=tokyonight" 
@@ -63,9 +63,10 @@ Markdown     0 secs                ░░░░░░░░░░░░░░░
 
 ## 📊 Contribution Graph 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishikajain0172&theme=react-dark" />
+  <img
+    src="https://github-readme-activity-graph-1gor-7xl9z624y.vercel.app/graph?username=Ishikajain0172&theme=tokyonight"
+  />
 </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge"/>
 </p>
