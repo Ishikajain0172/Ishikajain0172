@@ -14,7 +14,9 @@
 - Actively Maintaining GitHub Profile
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile%20Views&color=green&style=flat" alt="profile views" />
+   <a href="https://github.com/Ishikajain0172">
+  <img src="https://komarev.com/ghpvc/?username=Ishikajain0172&label=Profile+Views&color=green&style=flat-square" alt="Profile Views"/>
+  </a>
   <img src= "https://img.shields.io/github/followers/Ishikajain0172?style=flat"/>
   <img src="https://img.shields.io/github/last-commit/Ishikajain0172/Dsa-Practice?style=flat" alt="Last Commit" />
   <a href="https://wakatime.com/@226833b3-cd61-4855-8986-fc10383441a0"><img src="https://wakatime.com/badge/user/226833b3-cd61-4855-8986-fc10383441a0.svg" alt="Total time coded since Jan 3 2026" /></a>
@@ -63,9 +65,7 @@ Image (png)   3 mins                ▒░░░░░░░░░░░░░�
 
 ## 📊 Contribution Graph 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph-1gor-7xl9z624y.vercel.app/graph?username=Ishikajain0172"
-  />
+  <img src="https://github-readme-activity-graph-1gor-7xl9z624y.vercel.app/graph?username=Ishikajain0172&theme=tokyonight" />
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge"/>
