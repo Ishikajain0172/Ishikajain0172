@@ -51,12 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 59 mins
+Total Time: 29 mins
 
-HTML          1 hr 25 mins          ██████████████████░░░░░░░   72.07 %
-C++           29 mins               ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
-Image (png)   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Markdown      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C++   29 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
